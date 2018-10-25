@@ -1,0 +1,24 @@
+{
+  "name": "passignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-webserver": "^0.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
